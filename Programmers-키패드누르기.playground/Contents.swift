@@ -66,3 +66,6 @@ func solution(_ numbers:[Int], _ hand:String) -> String {
 //테스트
 solution([1, 2, 3, 4, 5, 6, 7, 8, 9, 0], "right")
 
+//시사점
+//1)거리를 구할 때는 좌표형태로 변경하기(또는 생각하기)
+//2)절대값 함수는 abs()
